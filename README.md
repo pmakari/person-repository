@@ -30,7 +30,6 @@ For running the project after packaging use the following command
 **JDK 8**
 
 ## Description
- Flyway added for database migration and versioning.
  
  HSQL as embedded database for testing.
  MySQL for development. 

@@ -11,7 +11,7 @@ For packaging and testing the project run the following command
 
 For running the project after packaging use the following command
 
-` java -jar target/procedure-scheduling.jar 
+` java -jar target/wagawin-task.jar 
 ` 
 ## Technology stack
 **Java 8**
@@ -38,6 +38,6 @@ For running the project after packaging use the following command
  There are three profiles for application (**prod**,**dev**,**test**), the default 
  profile is **dev**. To change the profile use the command line arguments :
  
-` java -jar target/procedure-scheduling.jar -Dspring.profiles.active=prod
+` java -jar target/wagawin-task.jar -Dspring.profiles.active=prod
 `
 

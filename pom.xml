@@ -62,6 +62,7 @@
     </dependencies>
 
     <build>
+        <finalName>wagawin-task</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
